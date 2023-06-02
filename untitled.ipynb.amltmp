@@ -61,7 +61,7 @@
     {
       "cell_type": "code",
       "source": [
-        "print(34)"
+        "print(32)"
       ],
       "outputs": [
         {
@@ -108,6 +108,11 @@
     "microsoft": {
       "ms_spell_check": {
         "ms_spell_check_language": "en"
+      },
+      "host": {
+        "AzureML": {
+          "notebookHasBeenCompleted": true
+        }
       }
     },
     "nteract": {
